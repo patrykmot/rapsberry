@@ -1,0 +1,7 @@
+{
+  "cmake.generator": "Unix Makefiles",
+  "cmake.configureArgs": [
+    "-DCMAKE_TOOLCHAIN_FILE=../rpi-toolchain.cmake"
+  ],
+  "cmake.buildDirectory": "${workspaceFolder}/build"
+}

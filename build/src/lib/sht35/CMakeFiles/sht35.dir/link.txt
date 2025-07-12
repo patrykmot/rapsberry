@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsht35.a CMakeFiles/sht35.dir/driver_sht35_basic.c.o CMakeFiles/sht35.dir/driver_sht35.c.o CMakeFiles/sht35.dir/iic.c.o CMakeFiles/sht35.dir/raspberrypi4b_driver_sht35_interface.c.o
+/usr/bin/ranlib libsht35.a

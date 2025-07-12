@@ -1,0 +1,6 @@
+/home/patryk/project/rapsberry/build/CMakeFiles/rpi_hello_world.dir
+/home/patryk/project/rapsberry/build/CMakeFiles/edit_cache.dir
+/home/patryk/project/rapsberry/build/CMakeFiles/rebuild_cache.dir
+/home/patryk/project/rapsberry/build/src/lib/sht35/CMakeFiles/sht35.dir
+/home/patryk/project/rapsberry/build/src/lib/sht35/CMakeFiles/edit_cache.dir
+/home/patryk/project/rapsberry/build/src/lib/sht35/CMakeFiles/rebuild_cache.dir

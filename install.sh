@@ -1,0 +1,1 @@
+scp build/rpi_hello_world patryk@192.168.1.179:/home/patryk/

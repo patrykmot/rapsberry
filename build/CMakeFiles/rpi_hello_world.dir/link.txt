@@ -1,0 +1,1 @@
+/usr/bin/g++ CMakeFiles/rpi_hello_world.dir/src/main.cpp.o -o rpi_hello_world  src/lib/sht35/libsht35.a 
